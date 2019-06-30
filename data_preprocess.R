@@ -1,4 +1,4 @@
-###manipulating/creating datasets to be used in Tableau###
+### manipulating/creating datasets to be used in Tableau ###
 
 #1) full original data
 nc_data = read.csv("NC Schools.csv", header = T)

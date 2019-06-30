@@ -1,5 +1,5 @@
 # NC Public Schools School Report Card - Adaptation
-#### How is school performance is tied to various factors that influence school climate, such as daily attendance, acts of violence or crimes committed on school groudns, suspensions or expulsions, and availability of resources such as books, computers, and wireless access points?
+#### How is school performance tied to various factors that influence school climate, such as daily attendance, acts of violence or crimes committed on school groudns, suspensions or expulsions, and availability of resources such as books, computers, and wireless access points?
 
 Each academic year, the NC School Board of Education releases a public report on all NC public schools' performance. Each school is given a letter grade from A-F and a numerical score from 0-100. These performance grades are determined by the schools’ students’ achievements in standardized tests, mastery over core subject areas, and college preparedness. In addition, the report card contains information such as school demographics, data on student behavior, school finances, school resources, and school personnel experience and qualifications.
 

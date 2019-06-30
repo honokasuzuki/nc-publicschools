@@ -8,5 +8,5 @@ The first “step” of the dashboard is to select a district, which users can s
 
 This was created for a course titled Data Visualization, Society, and Student Learning.
 
-Link to my dashboard: https://public.tableau.com/profile/honoka.suzuki#!/vizhome/NCPSSchoolReportCard/NCDashboard
+## Link to my dashboard: https://public.tableau.com/profile/honoka.suzuki#!/vizhome/NCPSSchoolReportCard/NCDashboard
 For more information on the SRC: http://www.ncpublicschools.org/src/

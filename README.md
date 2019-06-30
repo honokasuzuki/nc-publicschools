@@ -7,7 +7,7 @@ This project is an adaptation of the currently existing School Report Card (http
 
 The first “step” of the dashboard is to select a district, which users can select by clicking on a dot from a symbol map, where each dot represents a single district. The color of the dot is representative of the district’s average School Performance Score, so the initial motivation to explore a district can be the district’s overall academic performance. When a district is selected, further details about the district’s performance and school climate appears on the dashboard. From there, the user is free to explore the information that is displayed by observing patterns in these two areas of school characteristics.
 
-This was created for a course titled Data Visualization, Society, and Student Learning. The original data is available as a public dataset on Kaggle (North Carolina Schools: Report Cards and Metadata). The details on the variables included in this dataset are also available on the NCPS website, and the raw data is also available on the North Carolina School Report Cards website.
+This was created for a course titled _Data Visualization, Society, and Student Learning_. The original data is available as a public dataset on Kaggle (North Carolina Schools: Report Cards and Metadata). The details on the variables included in this dataset are also available on the NCPS website, and the raw data is also available on the North Carolina School Report Cards website.
 
 ### Link to my dashboard: https://public.tableau.com/profile/honoka.suzuki#!/vizhome/NCPSSchoolReportCard/NCDashboard
 For more information on the SRC: http://www.ncpublicschools.org/src/

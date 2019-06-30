@@ -1,4 +1,4 @@
-# NC Public Schools School Report Card
+# NC Public Schools School Report Card - Adaptation
 
 Each academic year, the NC School Board of Education releases a public report on all NC public schools' performance. Each school is given a letter grade from A-F and a numerical score from 0-100. These performance grades are determined by the schools’ students’ achievements in standardized tests, mastery over core subject areas, and college preparedness. In addition, the report card contains information such as school demographics, data on student behavior, school finances, school resources, and school personnel experience and qualifications.
 
